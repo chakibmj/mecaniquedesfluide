@@ -1,0 +1,185 @@
+body{
+	background-color: #A4A7FC ;
+}
+header h1{
+	background-color: #8B93B6;
+	font-size: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	text-shadow: 2px 2px;
+	border-style: inset;
+	opacity: 2;
+}
+nav ul li{
+	display: inline-block;
+	text-decoration: none;
+    text-align: center;
+	margin: 10px;
+	padding-left: 80px;
+	padding-right: 80px;
+
+}
+nav ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+nav{
+	background-color: #8B93B6;
+	border-style: inset;
+}
+nav ul li:hover a{
+	color: whitesmoke;
+	transition: 0.5s;
+
+}
+nav ul li:hover {
+	color: whitesmoke;
+	transition: 0.5s;
+
+
+}
+nav ul li.acceuil2 {
+	display: inline-block;
+	text-decoration: none;
+    text-align: center;
+	margin: 10px;
+	padding-left: 160px;
+	padding-right: 160px ;
+	
+}
+nav ul li.video2{
+	display: inline-block;
+	text-decoration: none;
+    text-align: center;
+	margin: 10px;
+	padding-left: 400px;
+	padding-right: 400px ;
+
+}
+nav ul li.acceuil3 {
+	display: inline-block;
+	text-decoration: none;
+    text-align: center;
+	margin: 10px;
+	padding-left: 45%;
+}
+div{
+  	background-color: #8596E2;
+}
+div h3{
+	text-align: center;
+}
+div h1{
+	opacity: 3px;
+}
+
+div p{
+	font-size: 20px;
+}
+div h4{
+	font-size: 20px;
+}
+div.deffluide {
+	background-color: #8596E2;
+
+}
+div.chapitre1  h1.chapitre1{
+	background-color: #8596E2 ;
+	text-align: center;
+	border-style: inset;
+}
+div.deffluide {
+	background-color: #8596E2;
+}
+div.deffluide h1{
+	text-align: center;
+	border: 2px solid grey;
+    border-radius: 5px;
+}
+div.deffluide p{
+	font-size: 20px;
+}
+div h1{
+	text-align: center;	
+	border: 2px solid grey;
+    border-radius: 5px;
+}
+ div div.fhp h2{
+ 	margin-left: 50px;
+
+ }
+ div div.fhp p.fhpi{
+ 	text-align: center;
+ }
+ div div.fhp {
+ 	background-color:#8596E2 ;
+ }
+ div  iframe{
+ 	margin-left: 300px;
+
+  }
+  div div.chapitre2{
+  	background-color: #8596E2;
+  }
+div p.eqbernouli1{
+	text-align: center;
+	opacity: 2px;
+}
+div p.eqbernouliet{
+	text-align: center;
+	opacity: 2px;
+}
+body div.ref div a{
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	padding-left: 45%;
+
+
+}
+body div.ref div{
+	padding-top: 15px ;
+	padding-bottom: 15px;
+}
+body div.ref div:hover a{
+
+	color: whitesmoke;
+	transition: 0.5s;
+
+}
+footer p.Copyright{
+	color: black;
+	background: 100%;
+
+}
+footer{
+	background-color: #9398AB;
+	background-position: center;
+	padding-left: 100px;
+	padding-top: 100px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+div embed{
+	padding-left: 30%;
+}
+body div.azer li a {
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	padding-left: 45%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+body div.azer li{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-decoration: none;
+}
+body div.azer:hover li a {
+	color: whitesmoke;
+	transition: 0.5s;
+}	
